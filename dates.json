@@ -1,0 +1,93 @@
+{
+  "feriados_argentina_2025": {
+    "feriados_inamovibles": [
+      {
+        "fecha": "01/01/2025",
+        "motivo": "Año Nuevo"
+      },
+      {
+        "fecha": "28/03/2025",
+        "motivo": "Viernes Santo (Semana Santa)"
+      },
+      {
+        "fecha": "02/04/2025",
+        "motivo": "Día del Veterano y de los Caídos en la Guerra de Malvinas"
+      },
+      {
+        "fecha": "01/05/2025",
+        "motivo": "Día del Trabajador"
+      },
+      {
+        "fecha": "25/05/2025",
+        "motivo": "Día de la Revolución de Mayo"
+      },
+      {
+        "fecha": "20/06/2025",
+        "motivo": "Paso a la Inmortalidad del General Manuel Belgrano"
+      },
+      {
+        "fecha": "09/07/2025",
+        "motivo": "Día de la Independencia"
+      },
+      {
+        "fecha": "17/08/2025",
+        "motivo": "Paso a la Inmortalidad del General José de San Martín"
+      },
+      {
+        "fecha": "08/12/2025",
+        "motivo": "Inmaculada Concepción de María"
+      },
+      {
+        "fecha": "25/12/2025",
+        "motivo": "Navidad"
+      }
+    ],
+    "feriados_trasladables": [
+      {
+        "fecha_original": "17/06/2025",
+        "fecha_traslado": "16/06/2025",
+        "motivo": "Paso a la Inmortalidad del General Martín Miguel de Güemes"
+      },
+      {
+        "fecha_original": "12/10/2025",
+        "fecha_traslado": "13/10/2025",
+        "motivo": "Día del Respeto a la Diversidad Cultural"
+      }
+    ],
+    "dias_no_laborables": [
+      {
+        "fecha": "24/03/2025",
+        "motivo": "Día Nacional de la Memoria por la Verdad y la Justicia"
+      },
+      {
+        "fecha": "01/04/2025",
+        "motivo": "Jueves Santo (Semana Santa)"
+      },
+      {
+        "fecha": "21/06/2025",
+        "motivo": "Fiesta Nacional de la Música"
+      },
+      {
+        "fecha": "15/11/2025",
+        "motivo": "Día de la Soberanía Nacional (feriado puente turístico)"
+      }
+    ],
+    "feriados_puente_turisticos": [
+      {
+        "fecha": "07/07/2025",
+        "motivo": "Puente entre el 9 de julio (miércoles) y el fin de semana"
+      },
+      {
+        "fecha": "18/11/2025",
+        "motivo": "Puente hacia el 20 de noviembre (Día de la Soberanía Nacional)"
+      }
+    ],
+    "observaciones": [
+      "Los feriados puente turísticos se confirman cada año por decreto presidencial",
+      "El 12 de octubre (Diversidad Cultural) es feriado trasladable cuando cae domingo",
+      "El 20 de noviembre (Soberanía Nacional) es no laboral pero no feriado, excepto cuando se declara puente turístico"
+    ],
+    "fuente": "https://www.argentina.gob.ar/interior/feriados-nacionales-2025",
+    "actualizacion": "Información válida al 04/04/2025"
+  }
+}
